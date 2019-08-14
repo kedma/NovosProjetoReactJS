@@ -1,2 +1,0 @@
-# NovosProjetoReactJS
-Created with CodeSandbox
